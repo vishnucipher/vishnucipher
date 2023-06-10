@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vishnu Vardhan</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
+<img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="Illustration Storyset" width=450/>
+
 
 
 
